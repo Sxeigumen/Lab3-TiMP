@@ -100,5 +100,6 @@ target_link_libraries(equation solver)
 
 ```
 ![](https://github.com/Sxeigumen/Lab3-TiMP/blob/master/фото/3.1.png)
+![](https://github.com/Sxeigumen/Lab3-TiMP/blob/master/фото/3.2.png)
 ![](https://github.com/Sxeigumen/Lab3-TiMP/blob/master/фото/3.2.1.png)
 ![](https://github.com/Sxeigumen/Lab3-TiMP/blob/master/фото/3.3.png)
