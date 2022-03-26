@@ -41,6 +41,7 @@ target_link_libraries(formatter_ex formatter)
 cmake -H. -B_build
 cmake --build _build
 ```
+![](https://github.com/Sxeigumen/Lab3-TiMP/blob/master/фото/2.png)
 
 **Задание №3**
 ```
@@ -98,3 +99,7 @@ target_link_libraries(equation formatter_ex)
 target_link_libraries(equation solver)
 
 ```
+![](https://github.com/Sxeigumen/Lab3-TiMP/blob/master/фото/3.1.png)
+![](https://github.com/Sxeigumen/Lab3-TiMP/blob/master/фото/3.2.1.png)
+![](https://github.com/Sxeigumen/Lab3-TiMP/blob/master/фото/3.3.png)
+![](https://github.com/Sxeigumen/Lab3-TiMP/blob/master/фото/2.png)
