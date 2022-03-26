@@ -18,7 +18,7 @@ add_library(formatter STATIC formatter.cpp formatter.h)
 cmake -H. -B_build
 cmake --build _build
 ```
-[](https://raw.githubusercontent.com/Sxeigumen/Lab3-TiMP/master/фото/1.png)
+![](https://raw.githubusercontent.com/Sxeigumen/Lab3-TiMP/master/фото/1.png)
 
 **Задание №2**
 ```
